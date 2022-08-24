@@ -1,0 +1,5 @@
+nltk~=3.7
+future~=0.18.2
+numpy~=1.22.2
+setuptools~=60.8.2
+pyinstaller==4.9
